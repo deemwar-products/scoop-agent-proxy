@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/deemwar-products/agent-proxy-dist/releases/download/v0.1.1/agentproxy_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/deemwar-products/agent-proxy-dist/releases/download/v0.1.2/agentproxy_0.1.2_windows_amd64.zip",
             "bin": [
                 "agentproxy.exe"
             ],
-            "hash": "d0add7c2e3579d21791857a3c2f579768ff8b50bcb132d85c63914069b29402c"
+            "hash": "f93543fdfdc214500ecae744e2a956de2abb8b00d2c993d2ac81b7be908dcfde"
         }
     },
     "homepage": "https://agentproxy.deemwar.com",
