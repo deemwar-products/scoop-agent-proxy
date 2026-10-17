@@ -1,15 +1,15 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/deemwar-products/agent-proxy-dist/releases/download/v0.1.8/agentproxy_0.1.8_windows_amd64.zip",
+            "url": "https://github.com/deemwar-products/agentproxy/releases/download/v0.1.9/agentproxy_0.1.9_windows_amd64.zip",
             "bin": [
                 "agentproxy.exe"
             ],
-            "hash": "f0382047a5fc02269d740239de95e220bc69e319b707b282da5968e695e1512b"
+            "hash": "cebc5f3e6ccba2dc36136a05a210bcb6a9fa2a995b6b0c4e9a8c293091794872"
         }
     },
     "homepage": "https://agentproxy.deemwar.com",
-    "license": "Proprietary",
-    "description": "Hard budget caps for AI coding agents - blocks the next request at the network boundary before it costs more"
+    "license": "Apache-2.0",
+    "description": "Masks secrets in your AI coding agents' traffic before they leave your machine"
 }
